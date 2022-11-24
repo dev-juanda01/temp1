@@ -1,0 +1,14 @@
+.llave-img {
+    width: 150px;
+}
+main .main-target {
+    display: flex;
+    justify-content: space-between;
+}
+
+main .main-target .rest {
+    border: 2px solid #000;
+    border-radius: 10px;
+    width: 150px;
+    box-shadow: 0px 6px 6px #444;
+}
